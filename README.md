@@ -77,3 +77,4 @@ GitHub: [@HugoBranche](https://github.com/HugoBranche)
 ## License
 
 This project is for academic purposes. Add a license here if you want others to reuse it.
+Change control enforced via branch protection.
